@@ -1,0 +1,3 @@
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.javabootcamp.lesson10.SpringBootConfiguration
